@@ -144,7 +144,7 @@ All successful operations will result in an HTTP status code of `200`.
   - `message`: a message indicating that the game was successfully canceled or forfeited.
 
 
-## Screeenshots
+## Screenshots
 
 ![](https://github.com/sohamsonar427/battleships_game/blob/main/lib/Screenshots/LoginSS.jpg)
 
