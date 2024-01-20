@@ -158,7 +158,7 @@ All successful operations will result in an HTTP status code of `200`.
 ### Installation
 1. Clone the repository.
    ```bash
-   git clone https://github.com/sohamsonar427/battleships_game.git
+   git clone https://github.com/sohamvsonar/battleships_game.git
 
 2. External packages
 
